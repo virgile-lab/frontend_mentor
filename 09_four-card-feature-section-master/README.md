@@ -10,11 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/frontend_mentor/09_four-card-feature-section-master)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/09_four-card-feature-section-master)
 - Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/09_four-card-feature-section-master/)
 
 ### Built with
@@ -44,6 +40,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
-
-## Acknowledgments
 

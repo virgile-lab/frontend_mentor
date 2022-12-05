@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,10 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/virgile-lab/virgile-lab.github.io/tree/main/frontend_mentor/01_product-preview-card-component-main](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/frontend_mentor/01_product-preview-card-component-main)
-- Live Site URL: [https://virgile-lab.github.io/frontend_mentor/01_product-preview-card-component-main/](https://virgile-lab.github.io/frontend_mentor/01_product-preview-card-component-main/)
-
-## My process
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/01_product-preview-card-component-main)
+- Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/01_product-preview-card-component-main/)
 
 ### Built with
 
@@ -43,14 +37,8 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-### What I learned
-
-### Continued development
-
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/@virgile-lab
-
-## Acknowledgments
+- Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
 
 

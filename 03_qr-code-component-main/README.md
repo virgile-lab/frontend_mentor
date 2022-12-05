@@ -9,11 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [here](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/frontend_mentor/03_qr-code-component-main)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/03_qr-code-component-main)
 - Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/03_qr-code-component-main/)
 
 ## My process
@@ -35,12 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-### Continued development
-
 ## Author
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
-
-## Acknowledgments

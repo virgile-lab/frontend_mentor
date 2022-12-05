@@ -10,11 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/frontend_mentor/10_order-summary-component-main)
-- Live Site URL: [here](https://virgile-lab.github.io/order-summary-component-main/)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/10_order-summary-component-main)
+- Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/10_order-summary-component-main/)
 
 ### Built with
 
@@ -44,6 +40,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
-
-## Acknowledgments
 

@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component solution
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,11 +10,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/virgile-lab/virgile-lab.github.io/tree/main/fylo-data-storage-component-master](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/fylo-data-storage-component-master)
-- Live Site URL: [https://virgile-lab.github.io/fylo-data-storage-component-master/](https://virgile-lab.github.io/fylo-data-storage-component-master/)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/12_fylo-data-storage-component-master)
+- Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/12_fylo-data-storage-component-master/)
 
 ### Built with
 
@@ -44,5 +40,4 @@ Users should be able to:
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
 
-## Acknowledgments
 

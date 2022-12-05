@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,11 +10,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/virgile-lab/virgile-lab.github.io/tree/main/social-proof-section-master](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/social-proof-section-master)
-- Live Site URL: [https://virgile-lab.github.io/social-proof-section-master/](https://virgile-lab.github.io/social-proof-section-master/)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/11_social-proof-section-master)
+- Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/11_social-proof-section-master/)
 
 ### Built with
 
@@ -45,6 +41,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
-
-## Acknowledgments
 

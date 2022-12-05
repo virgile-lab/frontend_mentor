@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,11 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/virgile-lab/virgile-lab.github.io/tree/main/testimonials-grid-section-main](https://github.com/virgile-lab/virgile-lab.github.io/tree/main/testimonials-grid-section-main)
-- Live Site URL: [https://virgile-lab.github.io/testimonials-grid-section-main/](https://virgile-lab.github.io/testimonials-grid-section-main/)
+- Solution URL: [here](https://github.com/virgile-lab/frontend_mentor/tree/main/13_testimonials-grid-section-main)
+- Live Site URL: [here](https://virgile-lab.github.io/frontend_mentor/13_testimonials-grid-section-main/)
 
 ### Built with
 
@@ -44,6 +40,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@virgile-lab](https://www.frontendmentor.io/profile/virgile-lab)
-
-## Acknowledgments
-
