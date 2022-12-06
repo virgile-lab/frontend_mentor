@@ -24,7 +24,6 @@
 
 /*** CSS Reset by https://piccalil.li/blog/a-modern-css-reset/ ***/
 
-
 /* Box sizing rules */
 
 *,
@@ -32,7 +31,6 @@
 *::after {
     box-sizing: border-box;
 }
-
 
 /* Remove default margin */
 
@@ -49,7 +47,6 @@ dd {
     margin: 0;
 }
 
-
 /* Remove list styles, margin and padding on ul, ol elements */
 
 ul,
@@ -59,13 +56,11 @@ ol {
     padding: 0;
 }
 
-
 /* Set core root defaults */
 
 html:focus-within {
     scroll-behavior: smooth;
 }
-
 
 /* Set core body defaults */
 
@@ -75,13 +70,11 @@ body {
     line-height: 1;
 }
 
-
 /* A elements that don't have a class get default styles */
 
 a:not([class]) {
     text-decoration-skip-ink: auto;
 }
-
 
 /* A elements inherit color */
 
@@ -89,7 +82,6 @@ a {
     color: inherit;
     text-decoration: none;
 }
-
 
 /* Make images easier to work with */
 
@@ -102,7 +94,6 @@ svg {
     display: block;
 }
 
-
 /* Inherit fonts for inputs and buttons */
 
 input,
@@ -111,7 +102,6 @@ textarea,
 select {
     font: inherit;
 }
-
 
 /* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
 
@@ -135,7 +125,7 @@ select {
 
 /*** Utilities ***/
 
-/* Articles counter */
+/* Counter List */
 
 .counter-list {
     counter-reset: li;
@@ -154,8 +144,6 @@ select {
     font-weight: var(--fw-700);
     margin-top: -1rem;
 }
-
-/* End Articles counter */
 
 /*** End Utilities ***/
 
@@ -236,7 +224,7 @@ header {
 
 /* Logo */
 
-header .logo {
+.logo {
     grid-area: bottom;
     background-color: var(--clr-neutral-900);
     height: clamp(4rem, 6vw, 6.5rem);
@@ -246,10 +234,6 @@ header .logo {
     mask: url(../../assets/images/logo.svg) no-repeat 50% 50%;
     mask-size: contain;
 }
-
-
-/* End Logo */
-
 
 /* Primary Nav */
 
@@ -328,10 +312,6 @@ header .logo {
     opacity: 1;
 }
 
-
-/* End Primary Nav */
-
-
 /* Dark/Light Theme */
 
 .toggle-theme-container {
@@ -405,16 +385,10 @@ header .logo {
     transform: translateX(1.7rem);
 }
 
-
-/* End Dark/Light Theme */
-
-
 /*** End Header ***/
 
 
-
 /*** Main ***/
-
 
 /* Main Article */
 
@@ -451,10 +425,6 @@ header .logo {
     background-color: var(--clr-neutral-900);
 }
 
-
-/* End Main Article */
-
-
 /* New Articles */
 
 .new-articles {
@@ -476,10 +446,6 @@ header .logo {
     color: var(--clr-neutral-400);
     padding-block: .4rem 2.8rem;
 }
-
-
-/* End New Articles */
-
 
 /* Ordered Articles */
 
@@ -514,12 +480,7 @@ header .logo {
     transform: scale(1.2);
 }
 
-
-/* End Ordered Articles */
-
-
 /*** End Main ***/
-
 
 
 /*** Media Queries ***/
@@ -547,14 +508,14 @@ header .logo {
     }
 
     .primary-nav ul {
-        position: unset;
-        width: unset;
+        position: initial;
+        width: initial;
         height: initial;
         padding-block: initial;
         flex-direction: row;
         gap: 2.7rem;
         visibility: visible;
-        background-color: unset;
+        background-color: initial;
     }
 
     .primary-nav ul li {
