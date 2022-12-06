@@ -27,7 +27,7 @@ function lightColorScheme() {
     document.documentElement.style.setProperty('--clr-neutral-900', 'hsl(240, 100%, 5%)');
 }
 
-/** Browser color scheme detection **/
+/* Browser color scheme detection */
 
 //Detect and apply the color scheme matches the browser preferences, and display a tooltip message
 
@@ -38,9 +38,13 @@ function browserColorSchemePreference(colorScheme, tooltipTime = 5000) { // colo
 
     // Apply color scheme
     if (colorScheme === "dark") {
+
         darkColorScheme()
+
     } else {
+
         lightColorScheme()
+
     }
 
     // Display the tooltip message
@@ -59,7 +63,6 @@ function browserColorSchemePreference(colorScheme, tooltipTime = 5000) { // colo
     localStorage.setItem('tooltip', 'true');
 
 }
-
 
 /* First detection of the browser color scheme preference */
 
@@ -93,7 +96,7 @@ browserColorSchemeDark.addEventListener('change', function () {
 }
 )
 
-/** End Browser color scheme detection **/
+/* End Browser color scheme detection */
 
 
 /* Apply and store the color scheme on click on the toggle button */
