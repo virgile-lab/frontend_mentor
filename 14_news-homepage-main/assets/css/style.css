@@ -145,7 +145,6 @@ select {
 body {
     display: grid;
     justify-content: center;
-    /* min-height: 100vh; */
     padding-inline: clamp(1.6rem, 4vw, 3rem);
     padding-block: 0 13rem;
     overflow-x: hidden;
