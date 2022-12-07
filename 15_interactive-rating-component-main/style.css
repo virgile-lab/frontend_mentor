@@ -1,0 +1,154 @@
+@import url("https: //fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
+
+:root {
+
+    /*Layouts*/
+
+    --mobileWidth: 375px;
+    --desktopWidth: 1440px;
+
+    /* Colors */
+
+    --clr-primary-orange: hsl(25, 97%, 53%);
+
+    --clr-neutral-100: hsl(0, 0%, 100%);
+    --clr-neutral-200: hsl(217, 12%, 63%);
+    --clr-neutral-300: hsl(216, 12%, 54%);
+    --clr-neutral-600: hsl(213, 19%, 18%);
+    --clr-neutral-900: hsl(216, 12%, 8%);
+
+    /* Font Size */
+
+    font-size: 10px;
+
+    /* Font Weight */
+
+    --fw-400: 400;
+    --fw-700: 700;
+
+    /* Typography */
+
+    --ff-primary: 'Overpass', sans-serif;
+}
+
+
+/*** CSS Reset by https://piccalil.li/blog/a-modern-css-reset/ ***/
+
+/* Box sizing rules */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Remove default margin */
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+    margin: 0;
+}
+
+/* Remove list styles, margin and padding on ul, ol elements */
+
+ul,
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set core root defaults */
+
+html:focus-within {
+    scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+
+body {
+    min-height: 100%;
+    text-rendering: optimizeSpeed;
+    line-height: 1;
+}
+
+/* A elements that don't have a class get default styles */
+
+a:not([class]) {
+    text-decoration-skip-ink: auto;
+}
+
+/* A elements inherit color */
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Make images easier to work with */
+
+img,
+picture,
+video,
+canvas,
+svg {
+    max-width: 100%;
+    display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+
+@media (prefers-reduced-motion: reduce) {
+    html:focus-within {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/*** End CSS Reset ***/
+
+
+
+/*** General ***/
+
+
+body {
+    display: grid;
+    justify-content: center;
+    padding-inline: clamp(1.6rem, 4vw, 3rem);
+    padding-block: 0 6rem;
+    overflow-x: hidden;
+    font-size: 1.5rem;
+    font-family: var(--ff-primary);
+    line-height: 1.7;
+    background-color: var(--clr-neutral-100);
+}
+
+
+
+/*** End General ***/
